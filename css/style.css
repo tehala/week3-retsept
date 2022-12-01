@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Nerko+One&display=swap');
+body{
+    background-color: rgb(236, 182, 176);
+}
+.heading{
+    color: rebeccapurple;
+    font-family: 'Nerko One', cursive;
+    text-align: center;
+}
+.ingredients{
+    font-family: 'Dancing Script', regular;
+color: rgb(48, 33, 48);
+border: 1px solid blue;
+width: 50%;
+margin: 0 auto;
+padding-top: 15px;
+padding-bottom: 12px;
+}
+.ingredients-table{
+border: 1px solid blue;
+margin: 0 auto;
+}
+.instructions{
+    color: rgba(4, 94, 49, 0.945);
+    border: 1px solid black;
+    width: 50%;
+    margin: 0 auto;
+}
+.insructions ol{
+    margin: 0 auto;
+    width: 70%;
+    border: 1px solid green;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 50%;
+    border-radius: 16px;
+  }
+  footer{
+    color: blueviolet;
+     text-align: center;
+  }
+  .website{
+    text-align: center;
+    
+  }
